@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+#hero{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-image: url(./about-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    list-style: none;
+}
